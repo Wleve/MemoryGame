@@ -36,7 +36,7 @@
     margin-bottom: 1rem;
     font-family: "JetBrains Mono", monospace;
     color: #f99b9b;
-    cursor:copy;
+    cursor:pointer;
 }
 .GameDescription{
     font-size: 1.5rem;
