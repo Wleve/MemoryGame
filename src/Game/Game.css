@@ -32,7 +32,7 @@
     font-size: 5rem;
     font-weight: 350;
     color: #333;
-    margin-bottom: 30rem;
+    margin-bottom: 25rem;
     font-family: "JetBrains Mono", monospace;
     color: #f99b9b;
     cursor:pointer;
@@ -105,7 +105,6 @@
     bottom: 7rem;
     right: 7rem;
 }
-/* Modal overlay */
 .ModalOverlay {
   position: fixed;
   top: 0; left: 0;
@@ -114,7 +113,6 @@
   z-index: 1000;
 }
 
-/* Modal box */
 .SettingsModal {
   position: fixed;
   top: 50%; left: 50%;
